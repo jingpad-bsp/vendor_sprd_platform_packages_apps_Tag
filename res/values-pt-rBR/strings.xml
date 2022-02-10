@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="title_scanned_tag">"Nova etiqueta coletada"</string>
+<string name="title_existing_tag">"Marcador"</string>
+<string name="tag_unknown">"Tipo de etiqueta desconhecida"</string>
+<string name="tag_empty">"Etiqueta vazia"</string>
+<string name="button_done">"Concluído"</string>
+<string name="action_text">"Texto <xliff:g id="phone_number">%s</xliff:g>"</string>
+<string name="action_call">"Chamada <xliff:g id="phone_number">%s</xliff:g>"</string>
+<string name="empty_tag_prompt">"Esta etiqueta está vazia."</string>
+<string name="import_vcard">"Importar ^1"</string>
+<string name="mime_display_name">"Dados de etiqueta NFC"</string>
+<string name="vcard_title">"Informações de contato para ^1"</string>
+<string name="call_phone_permission_denied">"Este app necessita de acesso às permissões do Telefone para fazer chamadas. Você pode gerenciar as permissões de etiqueta em Configurações"</string>
+<string name="external_storage_permission_denied">"Este aplicativo deve ter permissão de armazenamento externo para acessar os arquivos. Você pode gerenciar a Permissão de etiqueta em Configurações"</string>
+</resources>
